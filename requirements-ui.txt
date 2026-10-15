@@ -1,0 +1,2 @@
+# Optional Windows-only inspection, not required by the file toolkit or tests.
+pywinauto==0.6.9; sys_platform == 'win32'
